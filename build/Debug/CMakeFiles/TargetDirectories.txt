@@ -1,0 +1,3 @@
+C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/build/Debug/CMakeFiles/0_BTN_TRIG.dir
+C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/build/Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DSTM32F4xx -DUSE_HAL_DRIVER -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Core/Inc -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Include -std=gnu11 -T-mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -fdata-sections -ffunction-sections -Wall -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\PULSE_GEN.dir\\Core\\Src\\main.c.obj -c C:\\Users\\Karl\\Documents\\PERSONAL_STM\\0_BTN_TRIG\\Core\\Src\\main.c",
+  "file": "C:\\Users\\Karl\\Documents\\PERSONAL_STM\\0_BTN_TRIG\\Core\\Src\\main.c",
+  "output": "CMakeFiles\\PULSE_GEN.dir\\Core\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DSTM32F4xx -DUSE_HAL_DRIVER -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Core/Inc -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Include -std=gnu11 -T-mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -fdata-sections -ffunction-sections -Wall -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\PULSE_GEN.dir\\Core\\Src\\stm32f4xx_hal_msp.c.obj -c C:\\Users\\Karl\\Documents\\PERSONAL_STM\\0_BTN_TRIG\\Core\\Src\\stm32f4xx_hal_msp.c",
+  "file": "C:\\Users\\Karl\\Documents\\PERSONAL_STM\\0_BTN_TRIG\\Core\\Src\\stm32f4xx_hal_msp.c",
+  "output": "CMakeFiles\\PULSE_GEN.dir\\Core\\Src\\stm32f4xx_hal_msp.c.obj"
+},
+{
+  "directory": "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DSTM32F4xx -DUSE_HAL_DRIVER -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Core/Inc -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Include -std=gnu11 -T-mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -fdata-sections -ffunction-sections -Wall -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\PULSE_GEN.dir\\Core\\Src\\stm32f4xx_it.c.obj -c C:\\Users\\Karl\\Documents\\PERSONAL_STM\\0_BTN_TRIG\\Core\\Src\\stm32f4xx_it.c",
+  "file": "C:\\Users\\Karl\\Documents\\PERSONAL_STM\\0_BTN_TRIG\\Core\\Src\\stm32f4xx_it.c",
+  "output": "CMakeFiles\\PULSE_GEN.dir\\Core\\Src\\stm32f4xx_it.c.obj"
+},
+{
+  "directory": "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DSTM32F4xx -DUSE_HAL_DRIVER -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Core/Inc -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Include -std=gnu11 -T-mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -fdata-sections -ffunction-sections -Wall -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\PULSE_GEN.dir\\Core\\Src\\syscalls.c.obj -c C:\\Users\\Karl\\Documents\\PERSONAL_STM\\0_BTN_TRIG\\Core\\Src\\syscalls.c",
+  "file": "C:\\Users\\Karl\\Documents\\PERSONAL_STM\\0_BTN_TRIG\\Core\\Src\\syscalls.c",
+  "output": "CMakeFiles\\PULSE_GEN.dir\\Core\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DSTM32F4xx -DUSE_HAL_DRIVER -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Core/Inc -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Include -std=gnu11 -T-mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -fdata-sections -ffunction-sections -Wall -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\PULSE_GEN.dir\\Core\\Src\\sysmem.c.obj -c C:\\Users\\Karl\\Documents\\PERSONAL_STM\\0_BTN_TRIG\\Core\\Src\\sysmem.c",
+  "file": "C:\\Users\\Karl\\Documents\\PERSONAL_STM\\0_BTN_TRIG\\Core\\Src\\sysmem.c",
+  "output": "CMakeFiles\\PULSE_GEN.dir\\Core\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DSTM32F4xx -DUSE_HAL_DRIVER -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Core/Inc -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/STM32F4xx_HAL_Driver/Inc -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Device/ST/STM32F4xx/Include -IC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Include -std=gnu11 -T-mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -fdata-sections -ffunction-sections -Wall -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\PULSE_GEN.dir\\Core\\Src\\system_stm32f4xx.c.obj -c C:\\Users\\Karl\\Documents\\PERSONAL_STM\\0_BTN_TRIG\\Core\\Src\\system_stm32f4xx.c",
+  "file": "C:\\Users\\Karl\\Documents\\PERSONAL_STM\\0_BTN_TRIG\\Core\\Src\\system_stm32f4xx.c",
+  "output": "CMakeFiles\\PULSE_GEN.dir\\Core\\Src\\system_stm32f4xx.c.obj"
+}
+]
