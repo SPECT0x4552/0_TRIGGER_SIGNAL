@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG
+# Install script for directory: C:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/ST/STM32CubeCLT_1.16.0/GNU-tools-for-STM32/bin/arm-none-eabi-objdump.exe")
+  set(CMAKE_OBJDUMP "C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/arm-none-eabi-objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/build/Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL/build/Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

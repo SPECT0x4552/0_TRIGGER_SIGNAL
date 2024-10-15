@@ -129,19 +129,19 @@
 			[
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Core/Inc"
+					"path" : "C:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL/Core/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "C:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL/Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "C:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Include"
+					"path" : "C:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",
@@ -248,19 +248,19 @@
 			[
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Core/Inc"
+					"path" : "C:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL/Core/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "C:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL/Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "C:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/Drivers/CMSIS/Include"
+					"path" : "C:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "ASM",
@@ -285,7 +285,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-TC:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/STM32F401RETX_FLASH.ld",
+				"fragment" : "-TC:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL/STM32F401RETX_FLASH.ld",
 				"role" : "flags"
 			},
 			{

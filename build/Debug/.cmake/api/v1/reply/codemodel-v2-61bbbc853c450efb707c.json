@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "0_BTN_TRIG::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-0_BTN_TRIG-Debug-4d2dcb0c69cbf923d3a4.json",
+					"jsonFile" : "target-0_BTN_TRIG-Debug-9ae0a764944cadac9f57.json",
 					"name" : "0_BTN_TRIG",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG/build/Debug",
-		"source" : "C:/Users/Karl/Documents/PERSONAL_STM/0_BTN_TRIG"
+		"build" : "C:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL/build/Debug",
+		"source" : "C:/Users/Karl.Jaaska/Desktop/0_TRIGGER_SIGNAL"
 	},
 	"version" : 
 	{
